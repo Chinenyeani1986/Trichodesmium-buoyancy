@@ -1,21 +1,16 @@
-# Trichodesmium-budget
+# Trichodesmium-buoyancy
 
-mean_nfix_summer.R, mean_nfix_autumn.R, mean_nfix_winter.R and mean_nfix_spring.R are used to extract the total seasonal N fixation rate in the area of 
-the Great Barrier Reef Marine Park (GBRMP) from simulated eReefs results.
+create_ts_from_point_array_3p2.py is used to extract eReefs time series data at the MMP monitoring sites.
 
-aust.R is used to produce the study site image
+run_stat_reanalysis_old_new_model.m, p0_reanalysis_polished_control_only_old_site_old_new_model.m, skill_analysis_2018.m and hdrload.m are used for model assessment.
 
-central_gbr.R is used to get the Central Great Barrier Reef (GBR) boundary coordinates
+plot_emergent.R is used to plot emergent relationships.
 
-gbrmpa_bdry.R is used to compute the Nfix budgets for the GBRMP, GBR, Central GBR and cross-shelf waterbodies of the GBR. It is also used for data 
-visualisation.
+form_resistance.R is used to compute and visualise the effective radius and form resitance.
 
-gbr4_surface_extraction.R is used to extract surface  for the GBR.
+gbr4_surface_extraction.R is used to extract surface variables within the GBR.
 
-gam_depth.R and gam_nfix_depth.R are used to analyse emergent patterns of simulated eReefs data.
-
-mean_tricho_summer.R, mean_tricho_spring.R, mean_dip_summer.R, mean_dip_spring.R, mean_temp_summer.R and mean_temp_spring.R is used to extract spatially 
-resolved variables.
+mean_variables_extraction.R is used to extract spatially resolved variables.
 
 mean_variables_visualisation.R is used to visualise spatially resolved variables
 
