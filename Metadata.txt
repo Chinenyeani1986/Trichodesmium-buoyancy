@@ -15,9 +15,10 @@ Email: chinenye.ani@my.jcu.edu.au
 
 Date of data1 collection: 2023-06-26  
 Date of data2 collection: 2023-06-16  
-
-Data1 location: AIMS PEARL (\\pearl\rwqpp\eReefs_model_results\Trichodesmium-buoyancy\out_simple.nc)
-Data1 location: AIMS PEARL (\\pearl\rwqpp\eReefs_model_results\Trichodesmium-buoyancy\out_simple1.nc)
+Date of data3 collection: 2023-05-21
+Data1 location: AIMS PEARL (\\PEARL\rwqpp\Projects_related_to_MMP\Modelling_Barbara\eReefs_model_results\Trichodesmium_buoyancy\out_simple.nc)
+Data2 location: AIMS PEARL (\\PEARL\rwqpp\Projects_related_to_MMP\Modelling_Barbara\eReefs_model_results\Trichodesmium_buoyancy\out_simple1.nc)
+Data3 location: AIMS PEARL (\\PEARL\rwqpp\Projects_related_to_MMP\Modelling_Barbara\eReefs_model_results\Trichodesmium_bgc3p2\out_simple.nc)
 
 Information about funding sources that supported the collection of the data: AIMS@JCU PhD Scholarship; 
                                                                              Queensland Water Modelling Network Innovation Associate Program
